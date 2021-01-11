@@ -19,4 +19,6 @@
     "editor.minimap.renderCharacters": false,
     "zenMode.fullScreen": false,
     "window.restoreFullscreen": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "vim.useSystemClipboard": true,
 }
