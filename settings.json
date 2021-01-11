@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorCustomizations": {},
+    "C_Cpp.updateChannel": "Insiders",
+    "cmake.configureOnOpen": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.banditEnabled": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "workbench.iconTheme": "material-icon-theme",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "terminal.integrated.rendererType": "dom",
+    "vscode_vibrancy.imports": [
+
+    ],
+    "workbench.colorTheme": "One Monokai",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.lineNumbers": "relative",
+    "editor.minimap.renderCharacters": false,
+    "zenMode.fullScreen": false,
+    "window.restoreFullscreen": true,
+}
